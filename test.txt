@@ -1,0 +1,32 @@
+A test
+a song11 guy 100 0
+a song10 guy 100 0
+a song9 guy 100 0
+a song8 guy 100 0
+a song7 guy 100 0
+a song6 guy 100 0
+a song5 guy 100 0
+a song4 guy 100 0
+a song3 guy 100 0
+a song2 guy 100 0
+a song1 guy 100 0
+a song0 guy 100 0
+r 5
+0 1 4 5 7
+r 5
+0 1 2 3 4
+a song12 guy 100 0
+r 5
+4 3 2 1 0
+a song13 guy 100 0
+a song12 guy 100 0
+r 5
+4 3 0 1 2
+A hi
+S
+r 5
+0 1 2 3 4 
+W
+r 5
+0 1 2 3 4
+P
